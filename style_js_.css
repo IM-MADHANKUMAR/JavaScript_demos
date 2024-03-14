@@ -1,0 +1,89 @@
+.bg_home{
+    background-color:rgb(224, 217, 247) ;
+    height: 100%;
+}
+.welcome_note{
+    font-size: 40px;
+    font-family:roboto;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 150px;
+}
+.center_box_1{
+    border-radius:30px;
+    background-image: url('https://img.freepik.com/free-photo/thread-tape-measure-near-frame_23-2147930324.jpg?w=740&t=st=1710322272~exp=1710322872~hmac=bd78c8a153c97305e11dc1fb957df385245d9fbeffcc5c2124c6099335259b63');
+    background-size: cover;
+    width:280px;
+    height: 380px;
+    padding: 30px;
+    text-align: center;
+    margin: px;
+}
+.center_box_2{
+    border-radius:30px;
+    background-image: url('https://img.freepik.com/free-photo/reflections-wall_53876-23428.jpg?t=st=1710394238~exp=1710397838~hmac=553109fbb0d073620a23e89982a5a5710ae6e6ab8014ffdf9e1a1443dc6c545b&w=996');
+    background-size: cover;
+    width:280px;
+    height: 380px;
+    padding: 30px;
+    text-align: center;
+    margin: px;
+}
+.center_box_3{
+    border-radius:30px;
+    background-image: url('https://img.freepik.com/free-photo/still-life-laboratory-samples_23-2151108766.jpg?t=st=1710322869~exp=1710326469~hmac=b78002a70ae56260ab804acfcf2007eba7c30d54075f7ca4e31df82f2d497023&w=1060');
+    background-size: cover;
+    width:280px;
+    height: 380px;
+    padding: 30px;
+    text-align: center;
+    margin: px;
+}
+.center_box_4{
+    border-radius:30px;
+    background-image: url('https://img.freepik.com/free-photo/thread-tape-measure-near-frame_23-2147930324.jpg?w=740&t=st=1710322272~exp=1710322872~hmac=bd78c8a153c97305e11dc1fb957df385245d9fbeffcc5c2124c6099335259b63');
+    background-size: cover;
+    width:280px;
+    height: 380px;
+    padding: 30px;
+    text-align: center;
+    margin: px;
+}
+.heading{
+    font-size:30px;
+    color: rgb(16, 19, 178);
+    font-style:oblique;
+}
+
+.heading_2{
+    font-size:30px;
+    color: rgb(235, 244, 131);
+    font-style:oblique;
+}
+
+.box_2_line_4{
+    color: rgb(235, 244, 131);
+}
+
+.butto{
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.button_1{
+    margin: 10px;
+}
+
+.answer_line{
+    font-size: 22px;
+    font-weight: 700;
+}
+
+
+.result {
+    text-align: center; 
+    background-color: rgb(255, 255, 255); 
+    margin:0 auto;
+    height: 30px; 
+    width: 120px;
+}
